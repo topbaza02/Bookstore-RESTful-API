@@ -1,7 +1,7 @@
 # Bookstore-RESTful-API
 
 initial user
-username : john.doe
+username : john.doe <br />
 password : thisismysecret
 
 #API DOC
