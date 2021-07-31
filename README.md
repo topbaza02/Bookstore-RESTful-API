@@ -1,5 +1,8 @@
 # Bookstore-RESTful-API
 
+initial user
+username : john.doe
+password : thisismysecret
 
 #API DOC
 http://localhost:8080/v2/api-docs
